@@ -713,8 +713,7 @@ a {
   position: relative;
 }
 #footer .footer_wraper .footer_right i {
-  /* color: #fff; */
-  color: red;
+  color: #fff;
   position: absolute;
   bottom: 137px;
   right: 14px;
